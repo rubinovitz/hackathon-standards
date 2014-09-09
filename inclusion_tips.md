@@ -37,27 +37,13 @@ options
 
 * Refrain from asking things like "what does it feel like to be a girl at a hackathon?" You should not be saying things that make anyone feel like they should not be at your events. 
 
+* Have showers and other ways to stay groomed.
+
+* Provide sleeping areas.
+
 ## After the Event
 
-
-
-
-
-
-
-
-
-
-
-
-
-## Dietary Needs
-* Healthy food/drinks
-* Ask for allergy information from your participants and utilize it to get food they can eat.
-
 ## Misc. Tips
-
-* Have showers
 
 * There is currently a code of conduct in place at all  MLH hackathons. Enforce [it](http://www.mlh.io/about/code-of-conduct or http://2014.bitca.mp/conduct).
 
