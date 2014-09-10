@@ -43,6 +43,9 @@ options
 
 ## After the Event
 
+* Collect data that gauges how well you did, share that data to help other organizers. Iterate, improve.
+
+
 ## Misc. Tips
 
 * There is currently a code of conduct in place at all  MLH hackathons. Enforce [it](http://www.mlh.io/about/code-of-conduct or http://2014.bitca.mp/conduct).
