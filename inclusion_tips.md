@@ -39,7 +39,7 @@ options
 
 * Have showers and other ways to stay groomed.
 
-* Provide sleeping areas.
+* Provide safe sleeping areas.
 
 ## After the Event
 
