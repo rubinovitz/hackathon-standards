@@ -11,14 +11,15 @@ Several hackathon organizers have come forward and asked how to make their hacka
 
 * Recruit members of underrepresented in hackathons for judging panels & organizing team
 
+* Encourage sponsors to bring diverse mentors options
 
-* Encourage sponsors to bring diverse mentors
-options
 * Avoid gendered language in official hackathon announcements (continues throughout event)
 
 * Be sure the people in your marketing pics/videos are diverse
 
 * Do not market female-geared talks/things in pink or perpetuate other stereotypes
+
+* Do not create award categories that encourage the commodification/objectification of minority groups ('Best Team with Female Leader Award'). They are not there to be collectable 'tokens' for the privilaged to use, in order to increase eligibility for prize winning.
 
 * Actively recruit minorities by reaching out to their universities' groups and listservs
 
@@ -33,7 +34,6 @@ options
 * Actively disallow sexist and otherwise discriminative hacks
 
 * Have publicized procedures by which people can report code of conduct violations, and have a point person to handle complaints. 
-
 
 * Refrain from asking things like "what does it feel like to be a girl at a hackathon?" You should not be saying things that make anyone feel like they should not be at your events. 
 
