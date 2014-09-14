@@ -7,6 +7,9 @@ Several hackathon organizers have come forward and asked how to make their hacka
 
 
 ## Before the Event
+
+* Have a strong code of conduct that is distributed to all event attendees and sponsors.
+
 * Order female shirt sizes 
 
 * Recruit members of underrepresented in hackathons for judging panels & organizing team
@@ -39,7 +42,7 @@ Several hackathon organizers have come forward and asked how to make their hacka
 
 * Have showers and other ways to stay groomed.
 
-* Provide sleeping areas.
+* Provide safe sleeping areas.
 
 ## After the Event
 
