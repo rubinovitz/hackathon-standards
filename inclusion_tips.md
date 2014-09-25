@@ -10,7 +10,7 @@ Several hackathon organizers have come forward and asked how to make their hacka
 
 * Have a strong code of conduct that is distributed to all event attendees and sponsors.
 
-* Order female shirt sizes 
+* Order female shirt sizes (ideally v-necks)
 
 * Recruit members of underrepresented in hackathons for judging panels & organizing team
 
@@ -29,6 +29,8 @@ Several hackathon organizers have come forward and asked how to make their hacka
 * Have non-binary gender sign-ups
 
 * During the application process or otherwise before the event, ask your participants about any allergies they may have (e.g. to food) and accomodate them through out the event.
+
+* Ensure that sponsors, reporters, and other non-hackers attending the hackathon are familiar with hackathon standards.
 
 ## Day of the Event
 
